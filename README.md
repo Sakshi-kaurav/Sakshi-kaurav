@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Sakshi kaurav
+- 🌱 I’m currently learning MERN Stack
